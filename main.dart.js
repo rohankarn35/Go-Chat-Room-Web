@@ -81190,7 +81190,7 @@ return A.R($async$yf,r)}}
 A.a6G.prototype={}
 A.ack.prototype={
 alf(a){var s,r,q,p,o
-try{s="ws://golang-websocket.onrender.com/ws/"+a
+try{s="wss://golang-websocket.onrender.com/ws/"+a
 r=A.azn(A.am7(A.ep(s,0,null),null))
 p=A.aA(["channel",r,"error",null],t.N,t.z)
 return p}catch(o){q=A.aq(o)
